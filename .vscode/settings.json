@@ -1,0 +1,11 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.minimap.enabled": false,
+"editor.smoothScrolling": false,
+"files.autoSave": "afterDelay",
+"editor.formatOnSave": true,
+"java.jdt.ls.vmargs": "-Xms256m -Xmx1024m",
+ "java.project.sourcePaths": [
+        "."
+ ]
+}
