@@ -1,3 +1,5 @@
+package recursion;
+
 public class Hcf {
 
     static int hcf(int a, int b){

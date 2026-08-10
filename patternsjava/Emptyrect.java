@@ -1,3 +1,5 @@
+package patternsjava;
+
 public class Emptyrect {
     public static void main(String[] args) {
 

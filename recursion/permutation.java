@@ -1,3 +1,5 @@
+package recursion;
+
 public class permutation {
        static void permu(String ans, String str){
 

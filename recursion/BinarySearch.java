@@ -1,4 +1,4 @@
-
+package recursion;
 public class BinarySearch {
 
     static int search(int[] arr, int target, int low, int high) {

@@ -1,3 +1,5 @@
+package recursion;
+
 public class TraverseAnArray {
 
     static void print(int i, int[] arr){

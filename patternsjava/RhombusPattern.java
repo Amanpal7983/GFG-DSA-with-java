@@ -1,3 +1,5 @@
+package patternsjava;
+
 public class RhombusPattern {
     public static void main(String[] args) {
         

@@ -1,3 +1,5 @@
+package recursion;
+
 public class CountAndSay {
 
     static String count(int n){
