@@ -1,4 +1,4 @@
-package sortjava.stringbuilderjava;
+package stringbuilderjava;
 
 // toggle the stirng builder means convert lower to upper and uppar to lower case charcter
 

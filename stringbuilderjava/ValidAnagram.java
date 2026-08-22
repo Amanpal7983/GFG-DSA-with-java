@@ -1,4 +1,4 @@
-package sortjava.stringbuilderjava;
+package stringbuilderjava;
 import java.util.Arrays;
 // means if one string is abc and anotehr sting is cba thean both are anagram
 // dono me same words ya char contain ho

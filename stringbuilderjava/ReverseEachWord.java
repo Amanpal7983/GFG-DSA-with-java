@@ -1,4 +1,4 @@
-package sortjava.stringbuilderjava;
+package stringbuilderjava;
 // reverse each word in the string builder
 
 public class ReverseEachWord {

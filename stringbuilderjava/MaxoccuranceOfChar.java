@@ -1,4 +1,4 @@
-package sortjava.stringbuilderjava;
+package stringbuilderjava;
 
 // print the char which appear the max time in the given string
 
