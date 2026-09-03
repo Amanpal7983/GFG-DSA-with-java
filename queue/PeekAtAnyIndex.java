@@ -3,7 +3,7 @@ package queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class AddAtIndex {
+public class PeekAtAnyIndex {
 
     public static void main(String[] args) {
         Queue<Integer> q = new LinkedList<>();
@@ -14,7 +14,7 @@ public class AddAtIndex {
         q.add(50);
 
         int k = 3;
-        int ele = 60;
+
         int n = q.size();
 
         //remove and add k times
@@ -22,8 +22,8 @@ public class AddAtIndex {
             q.add(q.remove());
         }
 
-        //insert the element
-        q.add(ele);
+        //peek a element
+        System.out.println(q.peek());
 
         // again n-k times remove and add
         for (int i = 1; i <= n - k; i++) {
